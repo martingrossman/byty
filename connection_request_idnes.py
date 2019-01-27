@@ -9,6 +9,8 @@ This module uses Jizdni rady for finding connections.
 Result is pyquery object.
 Copied from : https://forum.root.cz/index.php?topic=18466.30
 
+#Done:
+ * added print to file
 #ToDo:
 * parse res_d using pyrequest
 
